@@ -1135,7 +1135,7 @@ body {
 
 .end {
     background: 
-    url("../images/world.png");
+    url("Portfolio/images/world.png");
     margin-top: 56px;
     padding-top: 44px;
     padding-bottom: 145px;
@@ -1151,7 +1151,7 @@ body {
     margin-left: 446px;
     margin-right: 360px;
     text-align: center;
-    background-image: url("../images/dialogue.png");
+    background-image: url("Portfolio/images/dialogue.png");
     padding-top: 62px;
     padding-bottom: 88px;
     color: #aeb7ba;
